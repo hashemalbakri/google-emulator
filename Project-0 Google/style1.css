@@ -1,0 +1,108 @@
+.navbar1{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+}
+.google{
+    height: 24px;
+    width: 74px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 25px;
+    color: black;
+}
+.icon{
+    display: inline-block;
+}
+.icon > a{
+    text-decoration: none;
+    color: black;
+    padding-right: 30px;
+}
+.icon > a:hover{
+    text-decoration: underline;
+}
+.adv{
+    margin-top: 50px;
+    width: 100%px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.3);
+}
+.adv1{
+    padding-left: 50px;
+    color: #d93025;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.title{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    display: inline-block;
+    padding-left: 55px;
+}
+.title1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    display: inline-block;
+    padding-right: 400px;
+}
+.form1{
+    margin-top: 80px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.field{
+    padding-right: 120px;
+    padding-top: 5px;
+    width: 350px;
+    height: 29px;
+}
+.fields{
+    display: grid;
+    height: 25px;
+    width: 500px;
+   margin-top: 14px;
+    border: 1px solid #bebebe;
+    
+
+}
+.fields1{
+    margin-top: 13px;
+    width: 234px;
+    height: 25px;
+    border: 1px solid #bebebe;
+}
+.div1{
+    width: 530px;
+}
+.form{
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+.par1{
+    margin-right: 150px;
+}
+.par1 > .dis{
+    padding-top: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
+}
+.sub{
+    display: flex;
+    justify-content:space-between;
+}
+.par > p{
+    margin-top: 25px;
+}
+#btn{
+    background-color: #4d90fe;
+    color: white;
+    border: none;
+    width: 120px;
+    height: 30px;
+    border-radius: 5px;
+margin-top: 30px;
+margin-left: 350px;
+}
